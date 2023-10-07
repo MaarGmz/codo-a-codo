@@ -1,0 +1,23 @@
+body{background-color: black ;
+    color: white;
+} 
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+.cuadro{
+    font-size: 180%;
+    padding: 100px;
+    margin: 0 10 px ;
+}
+.cuadro2{
+
+    background-color: #aa1b9e;
+    color: black;
+    padding: 25px;
+    margin:0 10 px ;
+    border-radius: 5%;
+}  
+.nosotros{ text-align: center;}
